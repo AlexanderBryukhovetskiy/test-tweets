@@ -111,7 +111,7 @@ export const FollowBtn = styled.button`
   color: #373737;
 
   background-color: ${props =>
-    props[`data-isFollowing`] ? '#5CD3A8' : '#ebd8ff'};
+    props[`data-following`] ? '#5CD3A8' : '#ebd8ff'};
   box-shadow: 0px 3.43693px 3.43693px rgba(0, 0, 0, 0.25);
   
   cursor: pointer;
