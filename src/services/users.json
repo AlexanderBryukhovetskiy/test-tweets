@@ -1,0 +1,86 @@
+[
+  {
+    "user":"Elon Mask",
+    "avatar":"https://i.ibb.co/wz5GtgC/Elon-Musk.png",
+    "tweets":777,
+    "followers":100500,
+    "id":"1"
+  },
+  {
+    "user":"Keano Reeves",
+    "avatar":"https://i.ibb.co/DQpnDc6/Keanu-Reeves.png",
+    "tweets": 555,
+    "followers": 800500,
+    "id":"2"
+  },
+  {
+    "user":"Joi Biden",
+    "avatar":"https://i.ibb.co/yq0gHp1/Joe-Biden.png",
+    "tweets":333,
+    "followers":1000000,
+    "id":"3"
+  },
+  {
+    "user":"Bill Gates",
+    "avatar":"https://i.ibb.co/PD8F27k/Bill-Gates.png",
+    "tweets": 1000,
+    "followers":777,
+    "id":"4"
+  },
+  {
+    "user":"Mark Zuckerberg",
+    "avatar":"https://i.ibb.co/0qtpYh4/Mark-Zuckerberg.png",
+    "tweets":999,
+    "followers":30033,
+    "id":"5"
+  },
+  {
+    "user":"Snoop Dogg",
+    "avatar":"https://i.ibb.co/0yt1dQ0/Snoop-Dogg.png",
+    "tweets":771,
+    "followers":3654758,
+    "id":"6"
+  },
+  {
+    "user":"Casper",
+    "avatar":"https://i.ibb.co/7tCMV7k/Casper.png",
+    "tweets":654,
+    "followers":75379,
+    "id":"7"
+  },
+  {
+    "user":"Tom",
+    "avatar":"https://i.ibb.co/thrB9PN/Tom-Cat.png",
+    "tweets":987,
+    "followers":98745,
+    "id":"8"
+  },
+  {
+    "user":"Batman",
+    "avatar":"https://i.ibb.co/bmgzWc1/Batman.png",
+    "tweets":373,
+    "followers":9514563,
+    "id":"9"
+  },
+  {
+    "user":"Mister Bin",
+    "avatar":"https://i.ibb.co/LvwxMpx/Mr-Bean.png",
+    "tweets": 55,
+    "followers":951422,
+    "id":"10"
+  },
+  {
+    "user":"Dexter Morgan",
+    "avatar":"https://i.ibb.co/L1kBc43/Morgan-Dexter.png",
+    "tweets":23,
+    "followers":321425,
+    "id":"11"
+  },
+  {
+    "user":"James Bond",
+    "avatar":"https://i.ibb.co/nrh9dGt/Bond-007.png",
+    "tweets":21,
+    "followers":652155,
+    "id":"12"
+  }
+]
